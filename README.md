@@ -59,8 +59,11 @@
 5. Do not touch the burn and call 911 immediately.
 6. There is no timeline for healing, and there will be severe scarring and contracture.
 
-
-
 ###### Source: http://airccse.org/journal/jcsit/5113ijcsit09.pdf
 ###### Source: http://healthline/health/burns#outlook
     
+## License
+
+This code pattern is licensed under the Apache License, Version 2. Separate third-party code objects invoked within this code pattern are licensed by their respective providers pursuant to their own separate licenses. Contributions are subject to the [Developer Certificate of Origin, Version 1.1](https://developercertificate.org/) and the [Apache License, Version 2](https://www.apache.org/licenses/LICENSE-2.0.txt).
+
+[Apache License FAQ](https://www.apache.org/foundation/license-faq.html#WhatDoesItMEAN)
